@@ -24,7 +24,6 @@ export default {
             heightAside: 0,
             heightNavbar: 0,
             heightLogo: 100,
-            heightCopyright: 120
         }
     },
     created() {
@@ -43,7 +42,7 @@ export default {
         ...mapMutations(['SET_NAV_WIDTH']),
         resizeComponents(){
             this.heightAside = this.isInPortraitMode? this.windowInsets.height - 50 : this.windowInsets.height// padding aside remove
-            this.heightNavbar = this.heightAside - this.heightLogo - this.heightCopyright
+            this.heightNavbar = this.heightAside - this.heightLogo
             if (this.isInPortraitMode){
                 this.SET_NAV_WIDTH(this.windowInsets.width)
             } else {
