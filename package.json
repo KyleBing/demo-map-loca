@@ -9,8 +9,7 @@
   },
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "build": "vue-cli-service build"
   },
   "dependencies": {
     "@amap/amap-jsapi-loader": "^1.0.1",
@@ -27,7 +26,6 @@
     "@vue/cli-service": "~4.5.0",
     "babel-plugin-component": "^1.1.1",
     "fiber": "^1.0.4",
-    "node-sass": "^4.14.1",
     "npm-check": "^5.9.2",
     "sass": "^1.26.11",
     "sass-loader": "^10.0.2",
