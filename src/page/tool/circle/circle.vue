@@ -48,7 +48,7 @@ export default {
         this.contentHeight = window.innerHeight
 
         AMapLoader.load({
-            key: mapConfig.appId, // 开发应用的 ID
+            key: mapConfig.key, // 申请的 web js 服务的 key
             version: "2.0",   // 指定要加载的 JSAPI 的版本，缺省时默认为 1.4.15
             plugins: [
                 // 'AMap.ToolBar', // 缩放按钮
