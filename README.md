@@ -1,3 +1,6 @@
+# 完整版已开源：
+[https://github.com/KyleBing/map](https://github.com/KyleBing/map)
+
 # 高德地图 Loca 插件、DragRoute、Marker 演示
 
 ![cover](https://user-images.githubusercontent.com/12215982/224325696-c51ad9a5-c604-42e3-be0d-6481f07c664c.png)
