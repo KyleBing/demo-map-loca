@@ -1,5 +1,10 @@
-# 完整版已开源：
+# 该库为不完整版，完整版已开源，请移步 -> ：
 [https://github.com/KyleBing/map](https://github.com/KyleBing/map)
+
+
+
+
+---
 
 # 高德地图 Loca 插件、DragRoute、Marker 演示
 
